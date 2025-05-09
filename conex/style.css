@@ -1,0 +1,105 @@
+.container {
+    display: flex;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+body h1 {
+    margin: 30px;
+}
+
+body hr {
+    margin: 50px;
+}
+
+form {
+    margin-top: 30px;
+}
+
+.trait {
+    width: 1px;
+    background-color: #aaa;
+}
+
+.login button {
+    margin-bottom: 200px;
+}
+
+.login,
+.signin {
+    text-align: center;
+    width: 50%;
+    margin: 100px;
+}
+
+.forgot {
+    display: flex;
+    justify-content: center;
+}
+
+.forgot input,
+.forgot button {
+    width: 150%;
+}
+
+.content{
+    display: flex;
+    margin-left: 35%;
+}
+
+.rapports {
+    width: 70%;
+    text-align: justify;
+}
+
+.filtres {
+    list-style-type: none;
+}
+
+.filtres li{
+    text-align: center;
+}
+
+.filtres li button {
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.right{
+    margin-right: 10px;
+}
+
+body .change{
+    width: 30%;
+    text-align: center;
+    margin-left: 35%;
+}
+
+.liste{
+    margin-left: 40%;
+}
+
+body .cf{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cf_btn{
+    width: 200px;
+    margin-left: 30%;
+}
+
+.space_form{
+    margin-left: 7%;
+}
